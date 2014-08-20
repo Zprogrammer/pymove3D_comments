@@ -13,7 +13,7 @@ blender-basics/b_find_information/bc_search_scene.html
 print only works if blender is started in a console ( like "C:\Program Files(x86)\...\blender.exe")
 
 blender-basics/d_composed_pices/dc_complex_pice.html
-----------------------------------------------------[
+----------------------------------------------------
 
 typo, see [mars_mobile.py](mars_mobile.py)
 
@@ -27,3 +27,7 @@ blender-basics/h_material/he_find_faces.html
 
 please explain how to manually select ear and read polygon numbers
 
+blender-basics/h_material/hg_material_procedural.html
+-----------------------------------------------------
+
+works only first time, does not work after modifying code
