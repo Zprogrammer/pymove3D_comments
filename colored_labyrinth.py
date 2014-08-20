@@ -46,7 +46,7 @@ def sokobanLevel(level):
             if level[row][i] == '#':
                 bpy.ops.mesh.primitive_cube_add(location=(row*2, i*2, 0))
                 obj = bpy.context.object
-                setColor(obj, MATERIAL_ROT, (1, 0, 0))
+                setColor(obj, MATERIAL_RED, (1, 0, 0))
 
 
 def setColor(obj, material, color):
