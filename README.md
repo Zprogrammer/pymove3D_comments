@@ -4,9 +4,6 @@ pymove3D_comments
 commets for pymove3D blender tutorial (German) http://pymove3d.pysv.org/
 
 
-comments and error corrections
-=============================
-
 blender-basics/b_find_information/bc_search_scene.html
 ------------------------------------------------------
 
@@ -35,4 +32,6 @@ works only first time, does not work after modifying code
 blender-basics/h_material/hi_material_uv_mapping.html
 -----------------------------------------------------
 
-Link to texture download does not work, 
+  * Link to texture download does not work,
+  *  see [mat1.py](mat1.py) no need to create directory, put jpg in same folder as .blend file 
+blend file must be saved before running program
