@@ -120,7 +120,7 @@ if __name__ == '__main__':
     create_objects()
     ## comment and uncomment the lines as you like
     # select_cubes()
-    # aktivate_object()
+    # activate_object()
     # scale_cu2()
     # scale_cy()
     # assemble_mars_mobile()
