@@ -31,3 +31,8 @@ blender-basics/h_material/hg_material_procedural.html
 -----------------------------------------------------
 
 works only first time, does not work after modifying code
+
+blender-basics/h_material/hi_material_uv_mapping.html
+-----------------------------------------------------
+
+Link to texture download does not work, 
