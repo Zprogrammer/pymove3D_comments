@@ -35,3 +35,8 @@ blender-basics/h_material/hi_material_uv_mapping.html
   * Link to texture download does not work,
   *  see [mat1.py](mat1.py) no need to create directory, put jpg in same folder as .blend file 
 blend file must be saved before running program
+
+blender-extended/aa_module.html
+-------------------------------
+
+Image make_internal.png is outdated for new blender versions.
