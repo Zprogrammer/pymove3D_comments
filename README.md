@@ -21,3 +21,9 @@ blender-basics/h_material/ha_material.html
 ------------------------------------------
 
 typo (ROT change to RED, see [colored_labyrinth.py](colored_labyrinth.py) 
+
+blender-basics/h_material/he_find_faces.html
+--------------------------------------------
+
+please explain how to manually select ear and read polygon numbers
+
