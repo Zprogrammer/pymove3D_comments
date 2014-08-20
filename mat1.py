@@ -24,7 +24,7 @@ def uvMapperCube(obj):
 
     # new texture
     texUV = bpy.data.textures.new(texname, type="IMAGE")
-    image_path = os.path.expanduser("//wuerfelbilder/blume.jpg")
+    image_path = os.path.expanduser("//yourpicture.jpg")
     image = bpy.data.images.load(image_path)
     texUV.image = image
 
